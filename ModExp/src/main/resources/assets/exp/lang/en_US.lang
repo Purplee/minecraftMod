@@ -1,0 +1,8 @@
+< en_US.lang - English localization file for the mod Tutorial >
+
+#Item
+item.exp:item_money.name=Gold coin
+
+#Block
+tile.exp:BlockBlueGlow.name=Blue Glowstone 
+tile.exp:CrateBlock.name=Wooden Crate 

@@ -1,0 +1,11 @@
+{
+    "variants": {
+                "variant=white": { "model":  "exp:block_properties_white" },
+                "variant=black": { "model":  "exp:block_properties_white" },
+                "variant=lime": { "model":  "exp:block_properties_white" },
+                "variant=orange": { "model":  "exp:block_properties_white" },
+                "variant=light_blue": { "model":  "exp:block_properties_white" },
+                "variant=yellow": { "model":  "exp:block_properties_white" },
+                "variant=black": { "model": "exp:block_properties_white" },
+    }
+}
