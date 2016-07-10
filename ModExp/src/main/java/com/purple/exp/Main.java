@@ -16,7 +16,7 @@ public class Main {
     public static final String MODNAME = "exp";
     public static final String VERSION = "1.0.0";
     
-    @SidedProxy(clientSide="com.sorgan.exp.proxy.ClientProxy", serverSide="com.sorgan.exp.proxy.ServerProxy")
+    @SidedProxy(clientSide="com.purple.exp.proxy.ClientProxy", serverSide="com.purple.exp.proxy.ServerProxy")
     public static CommonProxy proxy;
     
     @EventHandler
